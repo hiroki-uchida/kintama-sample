@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kintama (0.1.13)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kintama (~> 0.1.13)
+
+BUNDLED WITH
+   1.17.2
